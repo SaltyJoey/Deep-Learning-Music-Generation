@@ -5,7 +5,7 @@
 * [Current status]
 
 ## General info
-This project is a data analysis for generating music files through deep learning. It uses single-instrument MIDI files as data input which is simply the collection of notes and chords. The model used is an LSTM Neural Network which is able to identify long-term patterns within the data. This repository includes the input data used, the modeling and data analysis, the final output MIDI song, and the powerpoint slides of my presentation.
+This project is a data analysis for generating music files through deep learning. It uses single-instrument MIDI files as data input which is simply the collection of notes and chords. The model used is an LSTM Neural Network which is able to identify long-term patterns within the data. This repository includes the input data used, the modeling and data analysis, the final output MIDI song converted to WAV, and the powerpoint slides of my presentation.
 Initial model done by Sigurður Skúli - https://github.com/Skuldur/Classical-Piano-Composer
 	
 ## Technologies
