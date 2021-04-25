@@ -1,6 +1,7 @@
 ## Table of contents
 * [General info]
 * [Technologies]
+* [Data Collection]
 * [Results]
 * [Current status]
 
@@ -16,7 +17,10 @@ Project is created with:
 * NumPy version: 1.19.2
 * TensorFlow.Keras version: 2.4.0
 * Matplotlib version: 3.3.2
-	
+
+## Data Collection
+All MIDI tracks were collected from freemidi.org or similar websites. The dataset is a collection of 88 choruses or melodies ranging from 10 to 45 seconds.
+
 ## Results
 To achieve the best results, it is recommended to train to to a minimum training validation loss of 0.05.
 
